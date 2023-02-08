@@ -1,1 +1,0 @@
-# cloudNotes frontend 
